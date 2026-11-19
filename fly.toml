@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for catom-exthig on 2026-11-19T15:27:42Z
+# fly.toml app configuration file generated for catom on 2026-11-19T15:34:28Z
 #
 # See https://docs.fly.io/reference/configuration for information about how to use this file.
 #
 
-app = 'catom-exthig'
+app = 'catom'
 primary_region = 'ams'
 
 [build]
